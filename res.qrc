@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/boy.ico</file>
+        <file>icons/girl.ico</file>
+        <file>icons/no.bmp</file>
+        <file>icons/yes.bmp</file>
+        <file>icons/创建_newlybuild.png</file>
+        <file>icons/保存硬盘_save-one.png</file>
+        <file>icons/裁切_cutting-one.png</file>
+        <file>icons/撤销_undo.png</file>
+        <file>icons/复制_copy-one.png</file>
+        <file>icons/工具_tool.png</file>
+        <file>icons/工具箱_toolkit.png</file>
+        <file>icons/前进_go-ahead.png</file>
+        <file>icons/搜索_search.png</file>
+        <file>icons/替换_exchange-four.png</file>
+        <file>icons/退出_logout.png</file>
+        <file>icons/文件夹-开_folder-open.png</file>
+        <file>icons/行号_row-height.png</file>
+        <file>icons/粘贴_intersection.png</file>
+        <file>icons/字体_font-size-two.png</file>
+        <file>icons/换行_text-wrap-overflow.png</file>
+        <file>icons/保存_save.png</file>
+        <file>icons/笔记本_notebook.png</file>
+    </qresource>
+</RCC>
