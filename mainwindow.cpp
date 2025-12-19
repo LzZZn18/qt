@@ -9,6 +9,8 @@
 #include <QColorDialog>
 #include <QFontDialog>
 
+//123465
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
